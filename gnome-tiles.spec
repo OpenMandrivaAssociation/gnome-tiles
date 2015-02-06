@@ -1,7 +1,7 @@
 Summary: Desktop Background Images for GNOME
 Name: gnome-tiles
 Version: 1
-Release: %mkrel 13
+Release: 14
 License: LGPL
 Group: Graphical desktop/GNOME
 Source: gnome-tiles-1.tar.bz2
