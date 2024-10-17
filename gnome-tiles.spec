@@ -7,7 +7,7 @@ Group: Graphical desktop/GNOME
 Source: gnome-tiles-1.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 BuildArchitectures: noarch
-URL: http://www.gnome.org/
+URL: https://www.gnome.org/
 
 %description
 If you use GNOME you can use these images to spruce up your background.
